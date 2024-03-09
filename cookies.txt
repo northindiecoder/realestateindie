@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+p9.moscow	TRUE	/	FALSE	1999999999	flower	1
+p9.moscow	TRUE	/	FALSE	1999999999	samesite	lax
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	EJta1F4zRdZwio72tzy6xWzr5tZLjCu23nCpQRxRtmhfVYvLjasnotwrLTq5/Qx82Q==
+.yandex.ru	TRUE	/	FALSE	1999999999	i	xWqPSGoClyN+w5E3HReTyvXeIndbDHy9wkIJTbR0dUwWtX35DYrAX+e1rbOcyv85s9EUXNGTUVheQx9HryoEnLlOsMQ=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	9972200221709983591
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	89QAq1z3ugyRANtdLmjKIyHpAW9JVVF5IuZLNhYs0HE-1709983835-1.0.1.1-Y_7wAHIyMadLq2zsuiVEPXWkI2qccSwViz37Rk9vcVtgmHg.UdeEEFTBFjtwWrU037aROl6HvmuEw6nSl05QFw
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+p9.moscow	TRUE	/	FALSE	1999999999	hl	en
+p9.moscow	TRUE	/	FALSE	1999999999	device_view	full
+
